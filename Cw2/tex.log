@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 15:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -287,23 +287,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--26
 
  []
 
-[1] [2] (tex.aux) ) 
+[1]
+! Undefined control sequence.
+<recently read> \fonsize 
+                         
+l.37 \textbf{\fonsize{15}Smacznego!:)}
+                                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2] (tex.aux) ) 
 Here is how much of TeX's memory you used:
- 2186 strings out of 475389
- 36700 string characters out of 2776999
+ 2187 strings out of 475389
+ 36707 string characters out of 2776999
  383248 words of memory out of 3000000
- 23559 multiletter control sequences out of 15000+600000
+ 23560 multiletter control sequences out of 15000+600000
  476287 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,204b,206s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/pl/plit.enc}{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/
-plrm.enc}<C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/pl
-bx12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/pl
-r12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr
-17.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plti
-12.pfb>
-Output written on tex.pdf (3 pages, 39544 bytes).
+{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl
+/plit.enc}{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plrm
+.enc}<C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx12
+.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr12.
+pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr17.p
+fb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plti12.p
+fb>
+Output written on tex.pdf (3 pages, 39545 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
