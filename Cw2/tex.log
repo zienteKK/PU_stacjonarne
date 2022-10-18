@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 14:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -290,7 +290,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--26
 [1] [2] (tex.aux) ) 
 Here is how much of TeX's memory you used:
  2186 strings out of 475389
- 36640 string characters out of 2776999
+ 36700 string characters out of 2776999
  383248 words of memory out of 3000000
  23559 multiletter control sequences out of 15000+600000
  476287 words of font info for 45 fonts, out of 8000000 for 9000
@@ -303,7 +303,7 @@ bx12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/pl
 r12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr
 17.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plti
 12.pfb>
-Output written on tex.pdf (3 pages, 38762 bytes).
+Output written on tex.pdf (3 pages, 39544 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
