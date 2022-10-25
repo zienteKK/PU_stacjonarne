@@ -1,0 +1,54 @@
+\documentclass[a4paper]{article}
+\usepackage[left=3.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage[MeX]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{amsmath} %pakiet matematyczny
+\usepackage{amssymb} %pakiet dodatkowych symboli
+\usepackage{caption}
+\usepackage{multirow}
+\begin{document}
+\begin{table}[h]
+\centering\caption{Utwórz tabele przedstawiające działania bramek logicznych: NOT, AND, NAND, OR, NOR, XOR}
+\begin{center}
+\begin{tabular}{c|c|c|c}
+\hline
+Nazwa & A & B & Wynik \\
+\hline
+\multirow{3}{4em}{NOT}& 0 & - &1  \\
+& 1 & -& 0 \\
+
+\hline
+\multirow{3}{4em}{AND}& 0 & 0 &0  \\
+& 0 & 1& 0 \\
+& 1 & 0& 0 \\
+& 1 & 0& 0 \\
+& 1 & 1& 1 \\
+\hline
+\multirow{3}{4em}{NAND}& 0 & 0 &1  \\
+& 0 & 1& 1 \\
+& 1 & 0& 1 \\
+& 1 & 1& 0 \\
+\hline
+\multirow{3}{4em}{OR}& 0 & 0 &0  \\
+& 0 & 1& 1 \\
+& 1 & 0& 1 \\
+& 1 & 1& 1 \\
+\hline
+\multirow{3}{4em}{NOR}& 0 & 0 &1  \\
+& 0 & 1& 0 \\
+& 1 & 0& 0 \\
+& 1 & 0& 1 \\
+& 1 & 1& 0 \\
+\hline
+\multirow{3}{4em}{XOR}& 0 & 0 &0  \\
+& 0 & 1& 1 \\
+& 1 & 0& 1 \\
+& 1 & 1& 0 \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+\end{document}
+
